@@ -130,3 +130,6 @@ dmypy.json
 
 # csv salesman
 exercises/assets
+
+# csv covid
+data/
